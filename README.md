@@ -6,7 +6,7 @@ This project explores an eCommerce dataset to generate actionable insights using
 
 - `ecommerce_sales_analysis.ipynb` – Jupyter Notebook with EDA and SQL integration
 - `Canva_Presentation.pdf` – Final presentation of insights and visualizations
-- `Dataset_Download_Link.csv` – Cleaned dataset used for analysis
+- `Dataset Access Information` – Cleaned dataset used for analysis
 
 ## 🔧 Tools & Technologies
 
